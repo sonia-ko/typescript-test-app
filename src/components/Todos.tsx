@@ -3,7 +3,8 @@ function Todos() {
     <ul>
       <li>Learn React</li>
       <li>Learn Typescript</li>
-      <li>Createproject</li>
+      <li>Create project</li>
+      <li>Do something else</li>
     </ul>
   );
 }
